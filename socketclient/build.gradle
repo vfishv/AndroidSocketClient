@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-apply from: 'build_library_ext.gradle'
+//apply from: 'build_library_ext.gradle'
 
 android {
     compileSdkVersion 29
